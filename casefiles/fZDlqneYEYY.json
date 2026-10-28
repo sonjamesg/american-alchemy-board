@@ -1,0 +1,1 @@
+{"id": "fZDlqneYEYY", "mentions": {"pl:russia": {"count": 5, "ts": [426, 849, 1029]}}, "claims": [], "tech": {"quantum": {"count": 1, "ts": [729]}}, "method": "heuristic keyword extraction from cleaned auto-captions; excerpts are verbatim caption text, unverified"}
